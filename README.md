@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RekaVoelfinger career changer to software tester.
 - 👀 I’m interested in test automation.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
+<!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email: volfinger.reka@gmail.com.
 
 <!---
